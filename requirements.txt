@@ -1,0 +1,18 @@
+1. Python
+
+Python 3.7 lub nowszy (zalecane 3.8+)
+Pobranie: https://python.org/downloads/
+Podczas instalacji zaznacz "Add Python to PATH"
+
+2. pip (menedżer pakietów)
+
+Instalowany automatycznie z Python 3.4+
+Służy do instalacji bibliotek Python
+
+Wymagane biblioteki Python
+
+pip install fastapi
+pip install uvicorn
+pip install python-multipart  
+pip install pydantic
+pip install requests
